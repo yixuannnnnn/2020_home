@@ -19,3 +19,23 @@
 - [ ] To do list
 - [x] Done
 
+---
+Javascript Code
+```js 
+function myFunction(p1,p2){
+  return p1*p2;
+}
+```
+---
+Python Code
+```python
+s = "Python syntax highlighting"
+print s
+```
+---
+Javascript Code
+```js 
+var s = "JavaScript syntax highlighting";
+alert(s);
+}
+```
